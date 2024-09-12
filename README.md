@@ -87,5 +87,5 @@ Este proyecto es de uso académico y no tiene una licencia específica.
 
 ## Contacto
 
-(https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2019.png)(www.linkedin.com/in/clarm-undefined-52a61b31a)
+https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2019.png www.linkedin.com/in/clarm-undefined-52a61b31a
 
